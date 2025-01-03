@@ -55,6 +55,7 @@ The Online Store Project is a comprehensive system designed to manage products, 
 - 🛒 Place new orders
 - 📋 View order list
 
----
-This project provides an efficient solution for managing store operations, ensuring smooth and effective handling of sales, inventory, and customer relationships.
+
+## 📜 License
+This project is licensed under the terms of the [LICENSE](LICENSE) file in the root directory.
 
